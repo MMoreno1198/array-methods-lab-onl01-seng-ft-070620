@@ -1,8 +1,8 @@
 def using_include(array, element)
   
-array.include?("wow") = true
+array.include?("wow") && array.include?("Tardis") 
 
-array.include?("Tardis") = false
+
 
 end
 
