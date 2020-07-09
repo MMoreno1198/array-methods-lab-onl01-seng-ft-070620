@@ -2,7 +2,7 @@ def using_include(array, element)
   
 array.include?("wow", "wow")
 
-array.include?("Tardis", false)
+array.include?("Tardis", "Tardis")
 
 end
 
