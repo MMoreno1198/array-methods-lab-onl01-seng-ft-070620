@@ -1,8 +1,9 @@
 def using_include(array, element)
   
-using_include.include?(array, "wow")
+array.include?
 
-using_include.include?(array, "Tardis") 
+array.include?
+
 
 end
 
@@ -19,10 +20,14 @@ def using_reverse(array)
 end
 
 def using_first(array)
+  
+  array.first
 
 end
 
 def using_last(array)
+  
+  array.last
 
 end
 
