@@ -4,8 +4,6 @@ array = ["wow", "I", "am", "really", "learning", "arrays!"]
 
 array.include?("wow")
 
-else
-  
 array.include?("Tardis")
 
 end
